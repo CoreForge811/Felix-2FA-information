@@ -1,0 +1,8 @@
+otpauth://totp/Alex%20Xiao:?secret=tereubh3jn6sbgwotmgeu6wit43n4cwj&issuer=Alex%20Xiao
+otpauth://totp/David%20Yang:?secret=bsbbzfvp5m4yfdussaouo7psypybkdsj&issuer=David%20Yang
+otpauth://totp/Alvin%20Wang:?secret=fjkbmqeqknf2bmwoynwjdduqfnxoqv5v&issuer=Alvin%20Wang
+otpauth://totp/David%20Tan:?secret=52kq7362sr22isqgb2oaebiha7oppgcq&issuer=David%20Tan
+otpauth://totp/GitHub:?secret=U3KQXZKEBSQ4GJFE&issuer=GitHub
+otpauth://totp/Kenneth%20Liu:?secret=4bxyixpy75ne36w6f322ksegsrz3hxlp&issuer=Kenneth%20Liu
+otpauth://totp/John%20Lau:?secret=cde6753wwhvrg5tiijrh4ccidsqful2v&issuer=John%20Lau
+otpauth://totp/Harrison%20Wang:?secret=55ippbp4xee6zx45zj7afvt4lwsi5yer&issuer=Harrison%20Wang
